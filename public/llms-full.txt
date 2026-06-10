@@ -2,13 +2,13 @@
 
 An online dropshipping store that sells products without holding physical inventory. The business model focuses on connecting customers with products that are shipped directly from suppliers, enabling a lean and scalable e-commerce operation.
 
-Source: https://-1159d437.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה גאדג&#39;טים טכנולוגיים במשלוח מהיר — משלוח חכם
 
-URL: https://-1159d437.zappy5.app
+URL: https://example.com
 Description: חנות הדרופשיפינג המובילה בישראל מביאה לך מוצרי טכנולוגיה חדשניים ישירות מהספקים, עם משלוח חינם על מוצרי טק לישראל. התחילו לחסוך זמן וכסף עוד היום!
 
 גלה גאדג'טים טכנולוגיים במשלוח מהיר — משלוח חכם
@@ -398,7 +398,7 @@ Description: חנות הדרופשיפינג המובילה בישראל מבי�
 
 ## מהספק אליך תוך ימים — כך זה עובד — משלוח חכם
 
-URL: https://-1159d437.zappy5.app/how-it-works
+URL: https://example.com/how-it-works
 Description: רוצים להבין איך חנות הדרופשיפינג ישראל שלנו מספקת גאדג&#39;טים טכנולוגיים במשלוח מהיר לישראל בלי מלאי פיזי? היכנסו לגלות את התהליך הפשוט ולהתחיל לקנות חכם.
 
 מהספק אליך תוך ימים — כך זה עובד — משלוח חכם
@@ -1005,7 +1005,7 @@ Description: רוצים להבין איך חנות הדרופשיפינג ישר
 
 ## הסיפור שמאחורי המשלוחים החכמים שלך — משלוח חכם
 
-URL: https://-1159d437.zappy5.app/about
+URL: https://example.com/about
 Description: משלוח חכם היא חנות דרופשיפינג ישראלית שמחברת אתכם למוצרי טכנולוגיה מעולים במשלוח חינם על מוצרי טק לישראל. הכירו את החזון שמאחורי הפעילות הרזה והמהירה שלנו.
 
 הסיפור שמאחורי המשלוחים החכמים שלך — משלוח חכם
@@ -1444,7 +1444,7 @@ Description: משלוח חכם היא חנות דרופשיפינג ישראלי
 
 ## דברו איתנו — אנחנו זמינים לכל גאדג&#39;ט — משלוח חכם
 
-URL: https://-1159d437.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על מוצרי טכנולוגיה או משלוח מהיר לישראל? צרו קשר עם צוות משלוח חכם ונשמח לעזור לכם להשיג את הגאדג&#39;טים המושלמים במהירות ובקלות.
 
 דברו איתנו — אנחנו זמינים לכל גאדג'ט — משלוח חכם
@@ -1880,7 +1880,7 @@ Description: יש שאלה על מוצרי טכנולוגיה או משלוח מ
 
 ## מוצרים
 
-URL: https://-1159d437.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - משלוח חכם
 
 מוצרים - משלוח חכם
@@ -2086,7 +2086,7 @@ Description: המוצרים שלנו - משלוח חכם
 
 ## פרטי המוצר
 
-URL: https://-1159d437.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - משלוח חכם
 
 פרטי המוצר - משלוח חכם
@@ -2270,7 +2270,7 @@ Description: פרטי המוצר - משלוח חכם
 
 ## מוצרים
 
-URL: https://-1159d437.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - משלוח חכם
 
 מוצרים - משלוח חכם
@@ -2478,7 +2478,7 @@ Description: מוצרים - משלוח חכם
 
 ## מדיניות פרטיות
 
-URL: https://-1159d437.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2741,7 +2741,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-1159d437.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3013,7 +3013,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-1159d437.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
